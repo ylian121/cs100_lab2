@@ -6,6 +6,10 @@ ADD_EXECUTABLE(c-echo
     main2.cpp
 )
 
+ADD_EXECUTABLE(c-echo-count
+    main.cpp
+)
+
 ADD_EXECUTABLE(test
     test.cpp
 )
